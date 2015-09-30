@@ -1,6 +1,6 @@
 # deanius:ping-pong [![Build Status](https://secure.travis-ci.org/deanius/deanius-ping-pong.png?branch=master)](https://travis-ci.org/chicagogrooves/deanius-ping-pong)
 
-Example project for http://package-kitchen.meteor.com
+Example project for http://okgrow-package-builder.meteor.com
 
 ## Installation
 
@@ -10,4 +10,4 @@ Example project for http://package-kitchen.meteor.com
 
 ## Description
 
-Add some more along the lines of *"Example project for http://package-kitchen.meteor.com"*
+Add some more along the lines of *"Example project for http://okgrow-package-builder.meteor.com"*
